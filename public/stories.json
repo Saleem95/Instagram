@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": 1,
+    "username": "Your Stories",
+    "stories": [
+      {
+        "imageUrl": "/assets/image1.jpeg",
+        "time": "5m ago"
+      },
+      {
+        "imageUrl": "/assets/image4.jpeg",
+        "time": "10m ago"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Shivu",
+    "stories": [
+      {
+        "imageUrl": "/assets/image3.jpeg",
+        "time": "50m ago"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "Shash",
+    "stories": [
+      {
+        "imageUrl": "/assets/image4.jpeg",
+        "time": "55m ago"
+      },
+      {
+        "imageUrl": "/assets/image1.jpeg",
+        "time": "23m ago"
+      },
+      {
+        "imageUrl": "/assets/image4.jpeg",
+        "time": "55m ago"
+      },
+      {
+        "imageUrl": "/assets/image1.jpeg",
+        "time": "23m ago"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "SS",
+    "stories": [
+      {
+        "imageUrl": "/assets/image1.jpeg",
+        "time": "5m ago"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "username": "Maa",
+    "stories": [
+      {
+        "imageUrl": "/assets/image3.jpeg",
+        "time": "5m ago"
+      },
+      {
+        "imageUrl": "/assets/image4.jpeg",
+        "time": "10m ago"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Abbu",
+    "stories": [
+      {
+        "imageUrl": "/assets/image3.jpeg",
+        "time": "5m ago"
+      }
+    ]
+  }
+]
