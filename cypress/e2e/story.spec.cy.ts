@@ -1,6 +1,7 @@
 describe("Instagram Stories", () => {
   beforeEach(() => {
     cy.visit("http://localhost:5173"); // Change this URL if needed
+    // cy.visit("https://insta-ss.netlify.app/");   
   });
 
   it("should load stories", () => {
